@@ -18,13 +18,13 @@
 
 <p align="center">
   <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ishwarc04&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=atharvak2908&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="160"/>
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishwarc04&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvak2908&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="160"/>
 </p>
 
 <p align="center">
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=ishwarc04&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=atharvak2908&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </p>  
