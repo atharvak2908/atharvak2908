@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atharva Kassa</h1>
 <h3 align="center">A passionate developer who codes, creates, and caffeinates ☕💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvak2908&label=Profile%20views&color=0e75b6&style=flat" alt="atharvak2908" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=4thrv-k829&label=Profile%20views&color=0e75b6&style=flat" alt="atharvak2908" /> </p>
 
 - 📫 How to reach me **atharvakassa01@gmail.com**
 
@@ -21,8 +21,8 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=athrvk829&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athrvk829&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=4thrv-k829&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4thrv-k829&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="160"/>
 </p>
 
 <div align="center">
